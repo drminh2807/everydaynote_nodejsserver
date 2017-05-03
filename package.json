@@ -1,0 +1,27 @@
+{
+  "name": "NodeJsServer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "6.10.2"
+  },
+  "dependencies": {
+    "ejs": "2.5.6",
+    "express": "4.15.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drminh2807/everydaynote_nodejsserver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drminh2807/everydaynote_nodejsserver/issues"
+  },
+  "homepage": "https://github.com/drminh2807/everydaynote_nodejsserver#readme"
+}
